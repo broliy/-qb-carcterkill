@@ -1,0 +1,2 @@
+# -qb-carcterkill
+ qb-carcterkill
